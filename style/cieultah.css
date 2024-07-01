@@ -128,7 +128,7 @@ body {
   position: absolute;
   margin-left: 50%;
   transform: translateX(-50%);
-  bottom: 25px;
+  bottom: 75px;
   visibility: hidden;
   color: white;
 }
@@ -143,8 +143,3 @@ footer {
 }
 
 
-
-/*# sourceMappingURL=cieultah.css.map */
-/*# sourceMappingURL=cieultah.scss.map */
-
-/*# sourceMappingURL=cieultah.css.map */
