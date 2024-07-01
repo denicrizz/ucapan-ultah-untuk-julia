@@ -118,30 +118,6 @@ body {
     transform: translateX(-50%);
   }
 }
-/*
-.message-box-2 {
-  animation: letter2-out 4s ease 1s forwards;
-  -webkit-animation-play-state: paused;
-}
-@keyframes letter2-out {
-  0% {
-    visibility: hidden;
-    margin-left: 50%;
-    transform: translateX(-50%);
-  }
-  44% {
-    visibility: visible;
-    margin-top: -420px;
-  }
-  100% {
-    visibility: visible;
-    margin-left: 50.5%;
-    transform: translateX(-50.5%);
-    margin-top: -220px;
-    height: 125px;
-  }
-}
-*/
 .message-box-greeting {
   font-family: "Dancing Script", cursive;
   margin-top: 0;
@@ -156,6 +132,17 @@ body {
   visibility: hidden;
   color: white;
 }
+footer {
+  text-align: center;
+  padding: 10px;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  font-size: 14px;
+  color: #ffffff;
+}
+
+
 
 /*# sourceMappingURL=cieultah.css.map */
 /*# sourceMappingURL=cieultah.scss.map */

@@ -24,23 +24,3 @@ function mediaBtn() {
     document.getElementById('media-button').innerHTML = icon;
 
 }
-/*
-var b1 = 1;
-var b2 = 2;
-function swap1() {
-    if (b2 % 2 == 0) {
-        document.getElementById('message-box-2').style.zIndex = "10";
-        document.getElementById('message-box-1').style.zIndex = "50";
-        b1++;
-        b2++;
-    }
-}
-function swap2() {
-    if (b1 % 2 == 0) {
-        document.querySelector('.message-box-2').style.zIndex = "10";
-        document.querySelector('.message-box-1').style.zIndex = "50";
-        b1++;
-        b2++;
-    }
-}
-*/
